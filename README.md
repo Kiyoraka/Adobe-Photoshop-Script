@@ -32,7 +32,7 @@ Currently, this repository includes:
 ├── README.md
 ├── bulk-image-processing/
 │   ├── README.md              # Detailed documentation for bulk processing scripts
-│   └── convert-to-8bit.jsx    # Script for bulk converting images to 8-bit
+│   └── script.jsx    # Script for bulk converting images to 8-bit
 ```
 
 ## 💻 Usage
